@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Coding has been my interest since childhood. With having that, I started coding at the age of 13. Currently, I'm 21 and still learning and growing efficiently.
+        Coding has been my interest since childhood. With having that, I started coding at the age of 13. Currently, I'm 23 and still learning and growing efficiently.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
