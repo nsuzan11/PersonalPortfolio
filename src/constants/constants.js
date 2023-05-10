@@ -2,7 +2,7 @@ export const projects = [
    {
     title: 'Used Car Price Prediction',
     description: "The project provides valuable insights into the factors that affect the pricing of used cars in Nepal",
-      image: '/images/0.png',
+      image: '/images/used_car.png',
       tags: ['Django', 'scikit-learn'],
     id: 0,
   },
