@@ -1,7 +1,7 @@
 export const projects = [
    {
     title: 'Used Car Price Prediction',
-    description: "The project provides valuable insights into the factors that affect the pricing of used cars in Nepal",
+    description: "The project provides valuable insights into the factors that affect the pricing of used cars in Nepal.",
       image: '/images/used_car.png',
       tags: ['Django', 'scikit-learn'],
     id: 0,
@@ -15,14 +15,14 @@ export const projects = [
   },
   {
     title: 'Stock Portfolio',
-    description:"As stock market is evolving worldwide, I decided to create a stock portfolio of an individual where one can easily fit in the company's with their required details",
+    description:"As stock market is evolving worldwide, I decided to create a stock portfolio of an individual where one can easily fit in the company's with their required details.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript','Mongo DB', 'Node JS'],
     id: 2,
   },
   {
     title: 'Cooking recipe App',
-    description: "This application was created through my learning phase of web development. It contains various recipe of continental, indian, chinese cuisine and many more. The user can select the prefered cuisine and can make the dishes with the known recipe, ",
+    description: "This application was created through my learning phase of web development. It contains various recipe of continental, indian, chinese cuisine and many more. The user can select the prefered cuisine and can make the dishes with the known recipe.",
       image: '/images/3.jpg',
       tags: ['Node JS', 'Mongo DB'],
     id: 3,
